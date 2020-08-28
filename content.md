@@ -24,6 +24,10 @@ img[alt~="floatright"] {
   float: right;
 }
 
+#video {
+   text-align: center;
+}
+
 blockquote {
   background: #ffedcc;
   border-left: 10px solid #d1bf9d;
@@ -149,15 +153,15 @@ Crédits : AFP
 
 Guillaume Meurice (France Inter) est au Paris Open Source Summit
 
-TODO
+<div id=video><video controls="controls" width="800" src="binaries/meurice.mp4"></video></div>
 
 ---
 
-## Les ennemis de l’Open Source
+## Ennemi (historique) de l’Open Source ?
 
-![center](binaries/ms_logo.jpg)
+![center width:400](binaries/ms_logo.jpg)
 
-![center](binaries/microsoft_dance.mp4)
+<div id=video><video controls="controls" width="800" src="binaries/microsoft_dance.mp4"></video></div>
 
 ---
 
