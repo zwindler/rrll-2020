@@ -12,10 +12,18 @@ section {
   color: #333;
 }
 
+ul {
+  list-style: none
+}
+
 img[alt~="center"] {
   display: block;
   margin: 0 auto;
 }
+img[alt~="floatright"] {
+  float: right;
+}
+
 blockquote {
   background: #ffedcc;
   border-left: 10px solid #d1bf9d;
@@ -110,7 +118,7 @@ Open source (définition GNU toujours)
 
 * En 1998, une partie de la communauté a […] commencé à faire […] de l'« open source »
 
-Le mouvement open source vise à promouvoir le logiciel libre en lui retirant l’aspect idéologique (= politique)
+* Le mouvement open source vise à promouvoir le logiciel libre en lui retirant l’aspect idéologique (= politique)
 
 ![bg right:30% fit](binaries/underpants-gnomes-business-plan.png)
 
@@ -196,7 +204,7 @@ TODO
 
 ---
 
-## ![height:80](binaries/oracle.gif)
+## ![height:65](binaries/oracle.gif)
 
 MySQL est la base de données open source la plus populaire au monde grâce à sa fiabilité, sa facilité d'utilisation et ses performances avérées. (*source : oracle.com*)
 
@@ -268,6 +276,12 @@ TODO npminstall.mp4
 
 ![bg right:27% fit](binaries/what.jpg)
 
+## TODO
+
+Rubocop
+https://twitter.com/bitfield/status/1269975970200641537?s=19
+
+
 ---
 
 <!-- _class: lead -->
@@ -278,19 +292,18 @@ TODO npminstall.mp4
 
 ## Open source versus Proprietary
 
-<p style="text-align: center;">FIRST</br>
-<b>THEY IGNORE YOU.</b><br/>
-THEN<br/>
-<b>THEY LAUGH AT YOU.</b><br/>
-THEN<br/>
-<b>THEY FIGHT YOU.</b><br/>
-THEN<br/>
-<b>YOU WIN.</b></p>
+FIRST
+**THEY IGNORE YOU.**
+THEN
+**THEY LAUGH AT YOU.**
+THEN
+**THEY FIGHT YOU.**
+THEN
+**YOU WIN.**
 
 ---
 
-## Redhat
-## THE open source company
+## Redhat; **the** OSS company
 
 Créée en 1993, entreprise surtout connue pour Redhat Entreprise Linux, CentOS, Fedora, Openshift, ...
 
@@ -323,8 +336,10 @@ Créée en 1993, entreprise surtout connue pour Redhat Entreprise Linux, CentOS,
 
 ## Qui contribue le plus ?
 
-C'est leur coeur de métier
-* Mais ce n'est pas Redhat le plus gros contributeur Open Source
+Redhat ? C'est leur coeur de métier après tout
+* NOPE !
+
+TODO
 
 ![bg right:30% fit](binaries/redhat.jpg)
 
@@ -332,9 +347,9 @@ C'est leur coeur de métier
 
 ## Qui contribue le plus ?
 
-"Indice sur vos écrans"
+> "Indice sur vos écrans"
 
-C'est un cloud provider connu...
+**C'est un cloud provider connu**
 
 * ... mais ce n'est certainement pas eux !
 * Amazon
@@ -388,6 +403,34 @@ Satya Nadella (CEO actuel de Microsoft)
 
 ---
 
+<!-- _class: lead -->
+
+## TODO La guerre du cloud
+
+https://blog.sentry.io/2019/11/06/relicensing-sentry
+https://twitter.com/Skeptikon1/status/1192106002457473030
+https://github.com/todogroup/survey/tree/master/2019
+
+---
+
+<!-- _class: lead -->
+
+## TODO culture libre
+
+--- 
+
+<!-- _class: lead -->
+
+## TODO Le libre pour sauver le monde
+
+https://framapiaf.org/@sebsauvage/104663776259527309
+https://mamot.fr/@tnoisette/104647061959753272
+https://mamot.fr/@tnoisette/104647071206510013
+
+
+
+---
+
 ## Et ![height:50](binaries/deezer_logo.png) dans tout ça ?
 
 Nous aussi, on s’ouvre à l’Open Source
@@ -409,9 +452,28 @@ Et plus à suivre !
 
 ---
 
-## TODO
+## Conclusion [Sarcarsm ON]
 
-Ben lesh
+* Logiciel libre != Logiciel Open Source
+  * *et tout le monde s’en fout™ ![floatright width:400](binaries/tlmsf.jpg)
+
+* Le libre, ce n’est pas que des logiciels
+
+* L’Open Source c’est le cancer
+  * *sauf si on peut faire de l’argent avec
+
+* Faire de l’Open Source fait de vous un ZADiste néocommuniste....
+  * ... mais arrêter de maintenir vos projets Open Source met la vie de millions d’innocents en danger
+
+---
+
+## Conclusion [Sarcasm OFF]
+
+Une situation résumée en deux tweets
+
+![width:850 center](binaries/nick_craver_ben_lesh.png)
+
+[https://twitter.com/BenLesh/status/1119770730185363456?s=19](https://twitter.com/BenLesh/status/1119770730185363456?s=19)
 
 ---
 
@@ -424,35 +486,57 @@ Ben lesh
 <!-- _class: lead -->
 
 # Des questions ?
-# Ca vous à plu ?
+# Ca vous a plu ?
 
 ![bg left:35% fit](binaries/rage-face-etonnant.jpg)
 
 
 ---
 
-https://blog.sentry.io/2019/11/06/relicensing-sentry
-https://twitter.com/Skeptikon1/status/1192106002457473030
-https://github.com/todogroup/survey/tree/master/2019
 
 ICE Palantir
 
+---
+
+## Déclaration versus actes
+
+---
+
+## Et l'état dans tout ça ?
+
+
 https://twitter.com/etiennegonnu/status/1218202788699820037?s=19
 
-https://twitter.com/lea_linux/status/1217523083319431170?s=19
+---
 
 https://windows.developpez.com/actu/293901/La-FSF-envoie-a-Microsoft-un-disque-dur-vide-pour-recuperer-le-code-source-de-Windows-7-et-demande-a-l-entreprise-de-tenir-aux-engagements-qu-elle-a-pris-envers-la-communaute-du-logiciel-libre/
 
-https://twitter.com/Arawa_fr/status/1262129262951305216?s=19
-
 https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/amp/?__twitter_impression=true
 
-https://www-zdnet-fr.cdn.ampproject.org/c/s/www.zdnet.fr/amp/actualites/microsoft-decouvre-un-gang-de-cryptomining-detournant-des-clusters-kubernetes-39905041.htm
+---
 
-https://twitter.com/bitfield/status/1269975970200641537?s=19
+https://twitter.com/lea_linux/status/1217523083319431170?s=19
 
-https://framapiaf.org/@sebsauvage/104663776259527309
-https://mamot.fr/@tnoisette/104647061959753272
-https://mamot.fr/@tnoisette/104647071206510013
+
+https://twitter.com/Arawa_fr/status/1262129262951305216?s=19
+
+
+Zimbra open core
+https://twitter.com/abrianceau/status/1293837833979994114?s=20
+
+
+https://www.linkedin.com/posts/moula-badji-8550b773_vague-de-licenciements-chez-vmware-channelnews-activity-6700516507459428352-J0Lt
+
+https://twitter.com/VictorStinner/status/1295237763697180672?s=20
+
+https://botsin.space/@xkcdbot/104706923054981209
+
+https://twitter.com/nextinpact/status/1296067530763595776?s=20
+
+https://twitter.com/liamosaur/status/1296305262144364544?s=20
+
+https://framapiaf.org/@sebsauvage/104756899715214271
+
+
 
 
