@@ -98,9 +98,22 @@ Définition GNU (![width:100 margin-right](binaries/fsf_logo.png))
 
 ---
 
+# Le libre, c'est pas que du logiciel !
+
+Partager des connaissances, de la culture, c'est aussi faire "du libre"
+
+> Les biens communs, ou tout simplement **communs**, sont des ressources, gérées collectivement par une communauté [...] dans le but de préserver et pérenniser cette ressource. 
+
+
+![height:100](./binaries/wikipedia.png) ![height:100](./binaries/creative_commons.png) ![height:100](binaries/openfoodfacts.png) ![height:100](binaries/osmlogo.png)
+
+[Les communs d'abord](https://www.les-communs-dabord.org/communs-de-quoi-parle-t-on/)
+
+---
+
 ## Open Source (≠ Logiciel Libre)
 
-Dfinition GNU (encore)
+Définition GNU (encore)
 
 * En 1998, une partie de la communauté a […] commencé à faire […] de l'« open source »
 
@@ -112,16 +125,6 @@ Dfinition GNU (encore)
 
 ---
 
-# Le libre, c'est pas que du logiciel !
-
-Le libre, c'est une philosophie, quasiment un mouvement politique.
-
-Partager des connaissances, de la culture, ça peut s'apparenter à "du libre"
-
-![height:165](./binaries/wikipedia.png) ![height:165](./binaries/creative_commons.png) ![height:165](binaries/openfoodfacts.png) ![height:165](binaries/osmlogo.png)
-
----
-
 
 ## Free software versus Open source software
 
@@ -130,7 +133,7 @@ Dans la pratique,
 * Cette distinction est très peu connue du « grand public IT »
 * De nombreux logiciels dits « open source » sont « libres »
 
-![width:600 center](./binaries/thatsexactly.png)
+![width:550 center](./binaries/thatsexactly.png)
 
 ---
 
@@ -278,7 +281,7 @@ Deux autres exemples :
 * Curl - virtuellement maintenu par une personne de 1998
 * OpenSSL - [faille Heartbleed](https://en.wikipedia.org/wiki/Heartbleed) en 2014
 
-[OneZero - The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
+[OneZero - The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc) & [xkcd/2347](https://xkcd.com/2347/)
 
 ![bg right:35% fit](binaries/dependency.png)
 
@@ -415,42 +418,87 @@ Satya Nadella (CEO actuel de Microsoft)
 
 ---
 
-## Réel changement, openwashing, ou pire ?
+## Changement ou openwashing ?
 
-Adoption massive des produits open source dans "le cloud" ⇒ Microsoft a intéret à suivre le mouvement
+Adoption massive de l'open source dans "le cloud"
 
-Beaucoup n'ont pas oublié le **"Embrace, Extend and Extinguish"** de Microsoft dans les années "Netscape vs Internet Explorer".
+Beaucoup n'ont pas oublié **"Embrace, Extend and Extinguish"**
 
-[Embrace, Extend, Extinguish](https://fr.wikipedia.org/wiki/Embrace,_extend_and_extinguish)
+[Embrace, Extend, Extinguish](https://fr.wikipedia.org/wiki/Embrace,_extend_and_extinguish) - [PatchFriday](https://twitter.com/PatchFriday/status/1174960629817364481?s=20)
+
+![bg right:50% fit](binaries/patchfriday.jpeg)
 
 ---
 
 <!-- _class: lead -->
 
-## TODO Le libre pour sauver le monde
+## Le libre pour sauver le monde
 
 ---
 
 ## Le libre peut redonner du sens à nos vies
 
-Titre d'un article de Framasoft qui parle de Bernard Stiegler.
+Titre d'un article de [Framasoft qui parle de Bernard Stiegler](https://framablog.org/2012/03/02/bernard-stiegler-logiciel-libre/).
 
+Philosophe qui s'inspire énormément du libre pour tenter d'imaginer une société plus juste : "une économie de la contribution".
 
+Crédits: [Berkeley Center for New Media ](https://www.flickr.com/people/50571263@N02)
 
-[« Le logiciel libre peut redonner sens à nos vies » Bernard Stiegler](https://framablog.org/2012/03/02/bernard-stiegler-logiciel-libre/)
-
-https://mamot.fr/@tnoisette/104647061959753272
-https://mamot.fr/@tnoisette/104647071206510013
+![bg right:25% fit](binaries/stiegler.jpg)
 
 ---
 
-## TODO Calimac
+## Open Food Facts
+
+> Open Food Facts est une base de données sur les produits alimentaires faite par tout le monde, pour tout le monde.
+
+* Une base de données communautaire ouverte
+* Plus de 700.000 produits renseignés
+* 
+* On peut même contribuer à tout, même au code
+
+[Github de Open Food Facts](https://github.com/openfoodfacts)
+
+![bg right:25% fit](binaries/openfoodfacts.png)
+
+---
+
+## Culture libre = moyen age ?
+
+![](binaries/tweet01.webp)
+
+[Le tweet en question](https://twitter.com/dirtybiology/status/773149041437868032?s=20)
+
+![bg right:25% fit](binaries/pepper.jpeg)
+
+---
+
+## So far, so good
+
+> Tous les épisodes de Pepper & Carrot sont publiés en libre accès sur Internet via le site de David Revoy [...] sous licence Creative Commons BY (Paternité). 
+
+> Celle-ci est très ouverte, puisqu’elle autorise toutes les formes de réutilisation (y compris à caractère commercial) à condition de citer le nom de l’auteur.
+
+[S.I.Lex - Pepper et Carrot : BD Open Source chez Glénat](https://scinfolex.com/2016/08/30/pepper-et-carrot-une-bande-dessinee-open-source-publiee-chez-glenat/)
+
+
+---
+
+## Mais dans les commentaires...
+
+> Un investissement sans limites de cet auteur passionné doublé d’un combat quasi politique pro « Open Source » (alors que **sous couvert de modernité**, on est juste revenu sur la place du marché **en plein moyen âge quand les saltimbanques** essayaient de vivre des pièces jetées par les passants).
+
+**#saltimbaque #neocommuniste**
+
+[Blog zwindler.fr - Licence libre, auteurs du web et copyright](https://blog.zwindler.fr/2016/09/09/2223/)
 
 --- 
 
-## Un immeuble de 212 étages dans Flight Simulator
+## Grâce à OSM, on peut aussi un peu rigoler
 
-![width:800 center](binaries/flightsim.jpeg)
+212 étages dans *Flight Simulator* à cause d'une typo dans OSM
+
+![width:750 center](binaries/flightsim.jpeg)
 
 ---
 
@@ -458,22 +506,22 @@ https://mamot.fr/@tnoisette/104647071206510013
 
 # Conclusion
 
-![bg right:50% fit](binaries/wrap.png)
+![bg right:30% fit](binaries/wrap.png)
 
 ---
 
 ## Conclusion [Sarcarsm ON]
 
-* Logiciel libre != Logiciel Open Source
-  * *et tout le monde s’en fout™ ![floatright width:400](binaries/tlmsf.jpg)
+* Logiciel libre ≠ Logiciel Open Source
+  * et tout le monde s’en fout™ ![floatright width:400](binaries/tlmsf.jpg)
 
 * Le libre, ce n’est pas que des logiciels
 
-* L’Open Source c’est le cancer
+* L’Open Source c’est le cancer*
   * *sauf si on peut faire de l’argent avec
 
-* Faire de l’Open Source fait de vous un ZADiste néocommuniste....
-  * ... mais arrêter de maintenir vos projets Open Source met la vie de millions d’innocents en danger
+* Faire du libre fait de vous un saltimbanque néocommuniste....
+  * ... mais arrêter de maintenir vos projets mettra la vie de millions d’innocents en danger
 
 ---
 
@@ -482,7 +530,7 @@ https://mamot.fr/@tnoisette/104647071206510013
 Contribuer au libre c'est cool, c'est participer à un monde meilleur
 
 
-![width:850 center](binaries/nick_craver_ben_lesh.png)
+![width:830 center](binaries/nick_craver_ben_lesh.png)
 
 [https://twitter.com/BenLesh/status/1119770730185363456?s=19](https://twitter.com/BenLesh/status/1119770730185363456?s=19)
 
@@ -509,6 +557,12 @@ Contribuer au libre c'est cool, c'est participer à un monde meilleur
 
 ---
 
+## Le super sketchnote de @ane_naiz
+
+![center height:540](binaries/ane_naiz_sketchnote-1024x715.jpeg)
+
+---
+
 ## Bonus Microsoft
 
 La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troller.
@@ -529,14 +583,19 @@ La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troll
 
 ---
 
+## Peertube versus Youtube
+
+[AstronoGeek, Youtube vs Peertube](https://twitter.com/Skeptikon1/status/1192106002457473030)
+
+[Leo Grasset tacle ENCORE l'open source](https://twitter.com/search?q=from%3A%40zwindler%20to%3A%40dirtybiology&src=typed_query)
+
+---
+
 ## Bonus licence
 
-Zimbra devient open core
-https://twitter.com/abrianceau/status/1293837833979994114?s=20
+[Zimbra devient open core](https://twitter.com/abrianceau/status/1293837833979994114?s=20)
 
-Sentry
-https://blog.sentry.io/2019/11/06/relicensing-sentry
-https://github.com/todogroup/survey/tree/master/2019
+[Changement de licence chez Sentry pour contrer AWS](https://blog.sentry.io/2019/11/06/relicensing-sentry)
 
 ---
 
@@ -552,13 +611,3 @@ https://github.com/todogroup/survey/tree/master/2019
 
 * [Open source et ministère de la défense](https://twitter.com/etiennegonnu/status/1218202788699820037?s=19)
 * [NextInpact - Le logiciel libre arrive au sein de la Centrale d'achat de l'informatique hospitalière](https://www.nextinpact.com/article/43372/le-logiciel-libre-arrive-au-sein-centrale-dachat-informatique-hospitaliere)
-
----
-
-AstronoGeek, Youtube vs Peertube
-https://twitter.com/Skeptikon1/status/1192106002457473030
-
-Leo Grasset / Dirty Biology
-https://twitter.com/search?q=from%3A%40zwindler%20to%3A%40dirtybiology&src=typed_query
-
-Bouletcorp versus David Revoy
