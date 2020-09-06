@@ -53,7 +53,7 @@ blockquote:after{
 
 Denis GERMAIN
 
-🌅 SRE chez ![height:30](binaries/deezer_logo.png)
+🌅 Site Reliability Engineer
 
 🌃 Auteur sur [blog.zwindler.fr](https://blog.zwindler.fr)*
 
@@ -66,18 +66,6 @@ Denis GERMAIN
 <br/>
 
 **Les slides de ce talk sont sur le blog*
-
----
-
-## ![height:50](binaries/deezer_logo.png)
-
-TODO
-
----
-
-## Que fait un SRE chez ![height:40](binaries/deezer_logo.png) ?
-
-TODO
 
 ---
 
@@ -98,7 +86,7 @@ TODO
 
 ## Logiciel Libre
 
-Logiciel libre (définition GNU) ![width:100 margin-right](binaries/fsf_logo.png)
+Définition GNU (![width:100 margin-right](binaries/fsf_logo.png))
 
 * « Logiciel libre » désigne des logiciels qui respectent la liberté des utilisateurs.
 
@@ -106,27 +94,34 @@ Logiciel libre (définition GNU) ![width:100 margin-right](binaries/fsf_logo.png
 
 > « Free as in free speech, not free beer »
 
----
-
-# Culture libre
-
-Le libre ne se limite pas au développement logiciel
-
-![width:250](./binaries/wikipedia.png) ![width:500](./binaries/creative_commons.png)
+![bg right:25% fit](binaries/richard_stallman.jpg)
 
 ---
 
 ## Open Source (≠ Logiciel Libre)
 
-Open source (définition GNU toujours)
+Dfinition GNU (encore)
 
 * En 1998, une partie de la communauté a […] commencé à faire […] de l'« open source »
 
 * Le mouvement open source vise à promouvoir le logiciel libre en lui retirant l’aspect idéologique (= politique)
 
+* [GNU.org - Open Source misses the point](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+
 ![bg right:30% fit](binaries/underpants-gnomes-business-plan.png)
 
 ---
+
+# Le libre, c'est pas que du logiciel !
+
+Le libre, c'est une philosophie, quasiment un mouvement politique.
+
+Partager des connaissances, de la culture, ça peut s'apparenter à "du libre"
+
+![height:165](./binaries/wikipedia.png) ![height:165](./binaries/creative_commons.png) ![height:165](binaries/openfoodfacts.png) ![height:165](binaries/osmlogo.png)
+
+---
+
 
 ## Free software versus Open source software
 
@@ -145,19 +140,19 @@ Dans la pratique,
 
 ![bg right:50% fit](binaries/Spade-Guy.jpg)
 
-Crédits : AFP
+*crédits : AFP*
 
 ---
 
 ## Voici comment on est vu de l’extérieur
 
-Guillaume Meurice (France Inter) est au Paris Open Source Summit
+Guillaume Meurice (France Inter) est au Paris Open Source Summit <br/><br/>
 
 <div id=video><video controls="controls" width="800" src="binaries/meurice.mp4"></video></div>
 
 ---
 
-## Ennemi (historique) de l’Open Source ?
+## Ennemis (historique) de l’Open Source ?
 
 ![center width:400](binaries/ms_logo.jpg)
 
@@ -186,11 +181,11 @@ Bill Gates en 2005
 
 ---
 
-## Libre bashing en entreprise
+## Ok pour hier. Mais aujourd'hui ?
 
 Dans le top10 des éditeurs de logiciels dans le monde, 4 sont (très) connues pour leur catalogue de "logiciels propriétaires"
 
-TODO
+![width:800 center](binaries/top10.png)
 
 ---
 
@@ -233,15 +228,7 @@ Les gestionnaires de dépendances / paquets / modules
 
 ![height:40](binaries/npm_logo.png) **install**
 
----
-
-## La communauté Open Source
-
-Les gestionnaires de dépendances / paquets / modules
-
-![height:40](binaries/npm_logo.png) **install**
-
-TODO npminstall.mp4
+<div id=video><video controls="controls" width="600" src="binaries/npminstall.mp4"></video></div>
 
 [https://twitter.com/garrows/status/1065217184643768320](https://twitter.com/garrows/status/1065217184643768320)
 
@@ -249,7 +236,7 @@ TODO npminstall.mp4
 
 ## La communauté Open Source
 
-* Développeur, mainteneur unique de event-stream
+* Mainteneur unique de **event-stream**
 
 * Package NPM très populaire avec plusieurs millions (!!!) de téléchargements hebdomadaires
 
@@ -280,11 +267,20 @@ TODO npminstall.mp4
 
 ![bg right:27% fit](binaries/what.jpg)
 
-## TODO
+---
 
-Rubocop
-https://twitter.com/bitfield/status/1269975970200641537?s=19
+## Heartbleed / Curl
 
+Le problème ne date pas d'hier et ne se limite pas à NPM ! 
+
+Deux autres exemples :
+
+* Curl - virtuellement maintenu par une personne de 1998
+* OpenSSL - [faille Heartbleed](https://en.wikipedia.org/wiki/Heartbleed) en 2014
+
+[OneZero - The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
+
+![bg right:35% fit](binaries/dependency.png)
 
 ---
 
@@ -296,14 +292,16 @@ https://twitter.com/bitfield/status/1269975970200641537?s=19
 
 ## Open source versus Proprietary
 
-FIRST
-**THEY IGNORE YOU.**
-THEN
-**THEY LAUGH AT YOU.**
-THEN
-**THEY FIGHT YOU.**
-THEN
-**YOU WIN.**
+<div id="video">
+<br/>FIRST<br/>
+<b>THEY IGNORE YOU.</b><br/>
+THEN</br>
+<b>THEY LAUGH AT YOU.</b><br/>
+THEN<br/>
+<b>THEY FIGHT YOU.</b><br/>
+THEN<br/>
+<b>YOU WIN.</b><br/>
+</div>
 
 ---
 
@@ -338,12 +336,20 @@ Créée en 1993, entreprise surtout connue pour Redhat Entreprise Linux, CentOS,
 
 ---
 
+## Vous pouvez répéter la question ?
+
+![width:400 center](binaries/question.jpeg)
+
+
+> Dans le monde, quelle entitée contribue le plus de "code ouvert" ?
+
+---
+
 ## Qui contribue le plus ?
 
-Redhat ? C'est leur coeur de métier après tout
-* NOPE !
+Est ce que c'est Redhat ? C'est leur coeur de métier après tout
 
-TODO
+* ![width:300 center](binaries/nope.jpg)
 
 ![bg right:30% fit](binaries/redhat.jpg)
 
@@ -356,9 +362,7 @@ TODO
 **C'est un cloud provider connu**
 
 * ... mais ce n'est certainement pas eux !
-* Amazon
-
-TODO
+* ![width:600 center](binaries/sad_amazon_logo.webp)
 
 ---
 
@@ -385,11 +389,15 @@ Satya Nadella (CEO actuel de Microsoft)
 
 ## Encore plus amis de l'Open Source
 
-* 2017 - Microsoft rejoint l'Open Source Initiative ![height:80](binaries/osi_logo.png)
+* 2017 - Microsoft rejoint l'OSI ![height:60](binaries/osi_logo.png)
 
-* 2018 - Microsoft libère 60k brevets et achète ![height:80 ](binaries/github_logo.png)
+* 2018 - Microsoft libère 60k brevets
 
-* 2019 - La FSF ![height:80](binaries/fsf_logo.png) donne une conférence à Redmond !
+* 2018 - Microsoft achète ![height:60](binaries/github_logo.png)
+
+* 2019 - La ![height:40](binaries/fsf_logo.png) donne une conf' à Redmond
+
+![bg right:30% fit](binaries/Stallman_microsoft.jpg)
 
 [Microsoft saute le pas et met 60 000 brevets à disposition de Linux](https://siecledigital.fr/2018/10/12/microsoft-saute-le-pas-et-met-60-000-brevets-a-disposition-de-linux/)
 
@@ -397,54 +405,52 @@ Satya Nadella (CEO actuel de Microsoft)
 
 ## Toujours plus amis de l'Open Source
 
-![center](binaries/satia.png)
+* 2020 - Conférence Linux aurait du (COVID-19) avoir lieu au siège, à Redmond !
 
-* 2019 - Ajout du noyau Linux dans Windows 10
+* 2020 - Microsoft achète ![height:50](binaries/npm_logo.png)
 
-* 2020 - Conférence Linux aurait du avoir lieu au siège , à Redmond !
+[Site de la WSL Conf 1](https://www.wslconf.dev/wslconf1)
 
-[https://www.wslconf.dev/wslconf1]()
-
----
-
-<!-- _class: lead -->
-
-## TODO La guerre du cloud
-
-https://blog.sentry.io/2019/11/06/relicensing-sentry
-https://twitter.com/Skeptikon1/status/1192106002457473030
-https://github.com/todogroup/survey/tree/master/2019
+![bg right:30% fit](binaries/satia.png)
 
 ---
 
-<!-- _class: lead -->
+## Réel changement, openwashing, ou pire ?
 
-## TODO culture libre
+Adoption massive des produits open source dans "le cloud" ⇒ Microsoft a intéret à suivre le mouvement
 
---- 
+Beaucoup n'ont pas oublié le **"Embrace, Extend and Extinguish"** de Microsoft dans les années "Netscape vs Internet Explorer".
+
+[Embrace, Extend, Extinguish](https://fr.wikipedia.org/wiki/Embrace,_extend_and_extinguish)
+
+---
 
 <!-- _class: lead -->
 
 ## TODO Le libre pour sauver le monde
 
-https://framapiaf.org/@sebsauvage/104663776259527309
+---
+
+## Le libre peut redonner du sens à nos vies
+
+Titre d'un article de Framasoft qui parle de Bernard Stiegler.
+
+
+
+[« Le logiciel libre peut redonner sens à nos vies » Bernard Stiegler](https://framablog.org/2012/03/02/bernard-stiegler-logiciel-libre/)
+
 https://mamot.fr/@tnoisette/104647061959753272
 https://mamot.fr/@tnoisette/104647071206510013
 
-
-
 ---
 
-## Et ![height:50](binaries/deezer_logo.png) dans tout ça ?
+## TODO Calimac
 
-Nous aussi, on s’ouvre à l’Open Source
+--- 
 
-* De nombreux développeurs contribuent (et les OPS aussi !)
+## Un immeuble de 212 étages dans Flight Simulator
 
-* Plusieurs projets open-sourcés sur Github [github.com/deezer](https://github.com/deezer)
-  * En particulier ![height:40](binaries/spleeter_logo.png)
-
-Et plus à suivre !
+![width:800 center](binaries/flightsim.jpeg)
 
 ---
 
@@ -473,7 +479,8 @@ Et plus à suivre !
 
 ## Conclusion [Sarcasm OFF]
 
-Une situation résumée en deux tweets
+Contribuer au libre c'est cool, c'est participer à un monde meilleur
+
 
 ![width:850 center](binaries/nick_craver_ben_lesh.png)
 
@@ -494,53 +501,64 @@ Une situation résumée en deux tweets
 
 ![bg left:35% fit](binaries/rage-face-etonnant.jpg)
 
+---
+
+<!-- _class: lead -->
+
+# Bonus !
 
 ---
 
+## Bonus Microsoft
 
-ICE Palantir
+La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troller.
 
----
+[La FSF envoie à Microsoft un disque dur vide pour récupérer le code source de Windows 7](https://windows.developpez.com/actu/293901/La-FSF-envoie-a-Microsoft-un-disque-dur-vide-pour-recuperer-le-code-source-de-Windows-7-et-demande-a-l-entreprise-de-tenir-aux-engagements-qu-elle-a-pris-envers-la-communaute-du-logiciel-libre/)
 
-## Déclaration versus actes
+[Microsoft and Open Source: An unofficial timeline](https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline)
 
----
-
-## Et l'état dans tout ça ?
-
-
-https://twitter.com/etiennegonnu/status/1218202788699820037?s=19
+[Brad Smith (président de Microsoft), reconnait que Microsoft a été "on the wrong side of history"](https://www.theregister.com/2020/05/15/microsoft_brad_smith_open_source/)
 
 ---
 
-https://windows.developpez.com/actu/293901/La-FSF-envoie-a-Microsoft-un-disque-dur-vide-pour-recuperer-le-code-source-de-Windows-7-et-demande-a-l-entreprise-de-tenir-aux-engagements-qu-elle-a-pris-envers-la-communaute-du-logiciel-libre/
+## Bonus communauté
 
-https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/amp/?__twitter_impression=true
+[Victor Stinner a propos des termes offençants et des réactions de la communauté](https://twitter.com/VictorStinner/status/1295237763697180672?s=20). Il a reçu des commentaires comme "I would want him dead" suite à un talk à la PyCon où il parle simplement de retirer des termes offençants dans Python.
+
+[Rubocop, un framework en Ruby, a vu une partie de sa communauté exiger du mainteneur principal](https://twitter.com/bitfield/status/1269975970200641537?s=19) qu'il change de nom suite au mouvement #BlackLivesMatter
 
 ---
 
-https://twitter.com/lea_linux/status/1217523083319431170?s=19
+## Bonus licence
 
-
-https://twitter.com/Arawa_fr/status/1262129262951305216?s=19
-
-
-Zimbra open core
+Zimbra devient open core
 https://twitter.com/abrianceau/status/1293837833979994114?s=20
 
+Sentry
+https://blog.sentry.io/2019/11/06/relicensing-sentry
+https://github.com/todogroup/survey/tree/master/2019
 
-https://www.linkedin.com/posts/moula-badji-8550b773_vague-de-licenciements-chez-vmware-channelnews-activity-6700516507459428352-J0Lt
+---
 
-https://twitter.com/VictorStinner/status/1295237763697180672?s=20
+## Bonus coup de gueule
 
-https://botsin.space/@xkcdbot/104706923054981209
+[Sebsauvage à propos de WSL](https://framapiaf.org/@sebsauvage/104756899715214271)
 
-https://twitter.com/nextinpact/status/1296067530763595776?s=20
+[Sebsauvage encore, à propos de Brad Smith qui demande l'équivalent d'un serment d'Hypocrate aux informaticiens](https://framapiaf.org/@sebsauvage/104663776259527309)
 
-https://twitter.com/liamosaur/status/1296305262144364544?s=20
+---
 
-https://framapiaf.org/@sebsauvage/104756899715214271
+## Et l'état dans tout ça ?
 
+* [Open source et ministère de la défense](https://twitter.com/etiennegonnu/status/1218202788699820037?s=19)
+* [NextInpact - Le logiciel libre arrive au sein de la Centrale d'achat de l'informatique hospitalière](https://www.nextinpact.com/article/43372/le-logiciel-libre-arrive-au-sein-centrale-dachat-informatique-hospitaliere)
 
+---
 
+AstronoGeek, Youtube vs Peertube
+https://twitter.com/Skeptikon1/status/1192106002457473030
 
+Leo Grasset / Dirty Biology
+https://twitter.com/search?q=from%3A%40zwindler%20to%3A%40dirtybiology&src=typed_query
+
+Bouletcorp versus David Revoy
