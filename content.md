@@ -432,7 +432,7 @@ Beaucoup n'ont pas oublié **"Embrace, Extend and Extinguish"**
 
 <!-- _class: lead -->
 
-## Le libre pour sauver le monde
+# Le libre pour sauver le monde
 
 ---
 
@@ -491,6 +491,14 @@ Crédits: [Berkeley Center for New Media ](https://www.flickr.com/people/5057126
 **#saltimbaque #neocommuniste**
 
 [Blog zwindler.fr - Licence libre, auteurs du web et copyright](https://blog.zwindler.fr/2016/09/09/2223/)
+
+---
+
+## Se déplacer sans qu'on vende mes données
+
+[Tweet de Jerome Herbinet](https://twitter.com/Jerome_Herbinet/status/1304660394980642819?s=19)
+
+![center height:600](binaries/maps_and_osm.png)
 
 --- 
 
