@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.09.13" producer="main_bin">
+  <profile description="automatic" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1280" display_aspect_den="720" frame_rate_num="30" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:21:17.300">
+    <property name="length">00:21:17.333</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-05-45.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T11:27:03</property>
+    <property name="shotcut:hash">8334672109df534f33c308fa1a12e68d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">2020-09-17 13-05-45.mkv</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:36:28.767">
+    <property name="length">00:36:28.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-31-57.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T12:08:26</property>
+    <property name="shotcut:hash">384fde2fe017de86295836496f096b41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:21:17.300"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:36:28.767"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:53:19.400">
+    <property name="length">00:53:19.433</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:53:19.400"/>
+  </playlist>
+  <producer id="producer2" in="00:00:00.000" out="00:21:17.300">
+    <property name="length">00:21:17.333</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-05-45.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T11:27:03</property>
+    <property name="shotcut:hash">8334672109df534f33c308fa1a12e68d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2020-09-17 13-05-45.mkv</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:21:17.300">
+    <property name="length">00:21:17.333</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-05-45.mkv</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T11:27:03</property>
+    <property name="shotcut:hash">8334672109df534f33c308fa1a12e68d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2020-09-17 13-05-45.mkv</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:21:17.300">
+    <property name="length">00:21:17.333</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-05-45.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T11:27:03</property>
+    <property name="shotcut:hash">8334672109df534f33c308fa1a12e68d</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2020-09-17 13-05-45.mkv</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:36:28.767">
+    <property name="length">00:36:28.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-31-57.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T12:08:26</property>
+    <property name="shotcut:hash">384fde2fe017de86295836496f096b41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">2020-09-17 13-31-57.mkv</property>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.200">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer4" in="00:20:43.933" out="00:20:44.133"/>
+    <track producer="producer5" in="00:00:12.200" out="00:00:12.400"/>
+    <transition id="transition0" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.200">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+    </transition>
+  </tractor>
+  <producer id="producer6" in="00:00:00.000" out="00:36:28.767">
+    <property name="length">00:36:28.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-31-57.mkv</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T12:08:26</property>
+    <property name="shotcut:hash">384fde2fe017de86295836496f096b41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">2020-09-17 13-31-57.mkv</property>
+  </producer>
+  <tractor id="tractor1" global_feed="1" in="00:00:00.000" out="00:00:00.133">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer5" in="00:27:28.433" out="00:27:28.567"/>
+    <track producer="producer6" in="00:30:52.167" out="00:30:52.300"/>
+    <transition id="transition2" out="00:00:00.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition3" out="00:00:00.133">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer7" in="00:00:00.000" out="00:36:28.767">
+    <property name="length">00:36:28.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/denis_uickk0q/Nextcloud/2020-09-17 13-31-57.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-09-17T12:08:26</property>
+    <property name="shotcut:hash">384fde2fe017de86295836496f096b41</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">2020-09-17 13-31-57.mkv</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer2" in="00:00:10.167" out="00:04:05.033"/>
+    <entry producer="producer3" in="00:04:05.067" out="00:04:06.167"/>
+    <entry producer="producer4" in="00:04:06.200" out="00:20:43.900"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.200"/>
+    <entry producer="producer5" in="00:00:12.433" out="00:27:28.400"/>
+    <entry producer="tractor1" in="00:00:00.000" out="00:00:00.133"/>
+    <entry producer="producer6" in="00:30:52.333" out="00:30:52.700"/>
+    <entry producer="producer7" in="00:30:52.733" out="00:36:21.567"/>
+  </playlist>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.033"/>
+  </playlist>
+  <tractor id="tractor2" title="Shotcut version 20.09.13" global_feed="1" in="00:00:00.000" out="00:53:19.400">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.323082</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

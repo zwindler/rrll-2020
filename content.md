@@ -231,7 +231,7 @@ Les gestionnaires de dépendances / paquets / modules
 
 ![height:40](binaries/npm_logo.png) **install**
 
-<div id=video><video controls="controls" width="600" src="binaries/npminstall.mp4"></video></div>
+<div id=video><video controls="controls" height="300" src="binaries/npminstall.mp4"></video></div>
 
 [https://twitter.com/garrows/status/1065217184643768320](https://twitter.com/garrows/status/1065217184643768320)
 
@@ -463,37 +463,6 @@ Crédits: [Berkeley Center for New Media ](https://www.flickr.com/people/5057126
 
 ---
 
-## Culture libre = moyen age ?
-
-![](binaries/tweet01.webp)
-
-[Le tweet en question](https://twitter.com/dirtybiology/status/773149041437868032?s=20)
-
-![bg right:25% fit](binaries/pepper.jpeg)
-
----
-
-## So far, so good
-
-> Tous les épisodes de Pepper & Carrot sont publiés en libre accès sur Internet via le site de David Revoy [...] sous licence Creative Commons BY (Paternité). 
-
-> Celle-ci est très ouverte, puisqu’elle autorise toutes les formes de réutilisation (y compris à caractère commercial) à condition de citer le nom de l’auteur.
-
-[S.I.Lex - Pepper et Carrot : BD Open Source chez Glénat](https://scinfolex.com/2016/08/30/pepper-et-carrot-une-bande-dessinee-open-source-publiee-chez-glenat/)
-
-
----
-
-## Mais dans les commentaires...
-
-> Un investissement sans limites de cet auteur passionné doublé d’un combat quasi politique pro « Open Source » (alors que **sous couvert de modernité**, on est juste revenu sur la place du marché **en plein moyen âge quand les saltimbanques** essayaient de vivre des pièces jetées par les passants).
-
-**#saltimbaque #neocommuniste**
-
-[Blog zwindler.fr - Licence libre, auteurs du web et copyright](https://blog.zwindler.fr/2016/09/09/2223/)
-
----
-
 ## Se déplacer sans qu'on vende mes données
 
 [Tweet de Jerome Herbinet](https://twitter.com/Jerome_Herbinet/status/1304660394980642819?s=19)
@@ -573,9 +542,7 @@ Contribuer au libre c'est cool, c'est participer à un monde meilleur
 
 ## Bonus Microsoft
 
-La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troller.
-
-[La FSF envoie à Microsoft un disque dur vide pour récupérer le code source de Windows 7](https://windows.developpez.com/actu/293901/La-FSF-envoie-a-Microsoft-un-disque-dur-vide-pour-recuperer-le-code-source-de-Windows-7-et-demande-a-l-entreprise-de-tenir-aux-engagements-qu-elle-a-pris-envers-la-communaute-du-logiciel-libre/)
+La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troller : [la FSF envoie à Microsoft un disque dur vide pour récupérer le code source de Windows 7](https://windows.developpez.com/actu/293901/La-FSF-envoie-a-Microsoft-un-disque-dur-vide-pour-recuperer-le-code-source-de-Windows-7-et-demande-a-l-entreprise-de-tenir-aux-engagements-qu-elle-a-pris-envers-la-communaute-du-logiciel-libre/)
 
 [Microsoft and Open Source: An unofficial timeline](https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline)
 
@@ -588,6 +555,37 @@ La FSF n'est plus ennemi juré de Microsoft, mais ça ne l'empêche pas de troll
 [Victor Stinner a propos des termes offençants et des réactions de la communauté](https://twitter.com/VictorStinner/status/1295237763697180672?s=20). Il a reçu des commentaires comme "I would want him dead" suite à un talk à la PyCon où il parle simplement de retirer des termes offençants dans Python.
 
 [Rubocop, un framework en Ruby, a vu une partie de sa communauté exiger du mainteneur principal](https://twitter.com/bitfield/status/1269975970200641537?s=19) qu'il change de nom suite au mouvement #BlackLivesMatter
+
+---
+
+## Bonus libre = moyen age ?
+
+![](binaries/tweet01.webp)
+
+[Le tweet en question](https://twitter.com/dirtybiology/status/773149041437868032?s=20)
+
+![bg right:25% fit](binaries/pepper.jpeg)
+
+---
+
+## So far, so good
+
+> Tous les épisodes de Pepper & Carrot sont publiés en libre accès sur Internet via le site de David Revoy [...] sous licence Creative Commons BY (Paternité). 
+
+> Celle-ci est très ouverte, puisqu’elle autorise toutes les formes de réutilisation (y compris à caractère commercial) à condition de citer le nom de l’auteur.
+
+[S.I.Lex - Pepper et Carrot : BD Open Source chez Glénat](https://scinfolex.com/2016/08/30/pepper-et-carrot-une-bande-dessinee-open-source-publiee-chez-glenat/)
+
+
+---
+
+## Mais dans les commentaires...
+
+> Un investissement sans limites de cet auteur passionné doublé d’un combat quasi politique pro « Open Source » (alors que **sous couvert de modernité**, on est juste revenu sur la place du marché **en plein moyen âge quand les saltimbanques** essayaient de vivre des pièces jetées par les passants).
+
+**#saltimbaque #neocommuniste**
+
+[Blog zwindler.fr - Licence libre, auteurs du web et copyright](https://blog.zwindler.fr/2016/09/09/2223/)
 
 ---
 
